@@ -1,4 +1,21 @@
-#My first Github project for Confluentia Hackathon  
-##Confluentia Hackathon was held by IIT BHU for all the students of 1st to 3rd year  
-###Problem Statement: To make a multilingual language model to enhance search results for Delivery Warehouses  
-I am Utkarsh Gupta
+- Utkarsh Gupta
+- IIT BHU
+  - Engineering Physics
+ 
+Use the ' printf( ) ' function  
+> This is a quote: Fuck off Bhojraj Sahu
+> I love Arvind Sahu from Metallurgy
+
+- Prakhar Yadav is in Mining Engineering
+
+---
+
+| Name | Branch | 
+| :----- | -----: | 
+| Prakhar Yadav | Mining | 
+| Arvind Sahu | Metallurgy | 
+| Bhojraj Sahu | Material | 
+
+- [ ] Fuck Bhoj
+- [ ] Fuck Arvind
+- [X] Fuck Prakhar
